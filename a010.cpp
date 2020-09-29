@@ -17,19 +17,24 @@ int main()
     {
         short times = 0;
             
+        // 找到因數
         while(input % n == 0)
         {                        
             times++;
-            input = input/n;
+            input /= n;
         }
 
+        // 印出因數
         if(times>0)
         {
             cout << n;
+
+            // 印出次方
             if(times>1)
             {
               cout << "^" << times;
             }
+            // 若除掉因數後仍不為1，表示還有後面的因數，印出 " * "
             if(input>1)
             {
               cout << " * ";

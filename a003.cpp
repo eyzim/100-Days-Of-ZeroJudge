@@ -12,6 +12,7 @@ int main()
 {
   short M, D;
   cin >> M >> D;
+  
   switch ( (M*2+D)%3 )
   {
     case 0:

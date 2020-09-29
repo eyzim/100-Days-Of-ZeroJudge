@@ -17,11 +17,14 @@ int main()
     {
         short a, b, c, d;
         cin >> a >> b >> c >> d;
+
+        // 等差數列
         if( (c-b) == (b-a) )
         {
             ans = d+(b-a);
             cout << a << " " << b << " " << c << " " << d << " " << ans << endl;
         }
+        // 等比數列
         else if( (c/b) == (b/a) )
         {
             ans = d*(b/a);
