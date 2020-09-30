@@ -1,5 +1,5 @@
 /* 
-Date:     09/28/2020
+Date:     09/29/2020
 Author:   ELV
 Question: https://zerojudge.tw/ShowProblem?problemid=a024
           Find the greatest common factor.
