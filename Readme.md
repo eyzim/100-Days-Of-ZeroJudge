@@ -1,8 +1,8 @@
 # 100 Days of [ZeroJudge](https://zerojudge.tw/Problems)
 
 ## Online IDE
-- [Repl.it](https://www.onlinegdb.com/online_c++_compiler)
-- [Onlinegdb C++ Compiler](https://repl.it/languages/cpp)
+- [Repl.it](https://repl.it/languages/cpp)
+- [Onlinegdb C++ Compiler](https://www.onlinegdb.com/online_c++_compiler)
 
 ## 基礎題庫
 
